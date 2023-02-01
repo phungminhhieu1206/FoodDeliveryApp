@@ -25,8 +25,6 @@ const IP14PROMAX_WIDTH = 430;
 const IP14PROMAX_HEIGHT = 932;
 
 const {height: W_HEIGHT, width: W_WIDTH} = Dimensions.get('window');
-console.log('height:>>>>', Dimensions.get('window').height);
-console.log('width:>>>>', Dimensions.get('window').width);
 
 let statusBarHeight = STATUSBAR_DEFAULT_HEIGHT;
 
